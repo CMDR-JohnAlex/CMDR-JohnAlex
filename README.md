@@ -10,7 +10,7 @@
 ![GitHub User's stars](https://img.shields.io/github/stars/CMDR-JohnAlex?style=social)
 ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=CMDR-JohnAlex.CMDR-JohnAlex&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Windows_11-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-Visual_Studio_Community_2019-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-Visual_Studio_Community_Preview_2022-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Github-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)
 
