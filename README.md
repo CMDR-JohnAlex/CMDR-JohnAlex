@@ -23,8 +23,8 @@
 <a href="https://github.com/CMDR-JohnAlex/consoleTemplate">
 	<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CMDR-JohnAlex&repo=consoleTemplate&show_icons=true&theme=radical" />
 </a>
-<a href="https://github.com/CMDR-JohnAlex/guessTheNumber">
-	<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CMDR-JohnAlex&repo=guessTheNumber&show_icons=true&theme=radical" />
+<a href="https://github.com/CMDR-JohnAlex/consoleTemplate">
+	<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CMDR-JohnAlex&repo=consoleTemplate&show_icons=true&theme=radical" />
 </a>
 
 .
