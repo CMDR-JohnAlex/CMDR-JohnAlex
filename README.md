@@ -21,10 +21,10 @@
 	<img align="center" src="https://github-readme-stats.vercel.app/api?username=CMDR-JohnAlex&show_icons=true&line_height=27&theme=radical&count_private=true" alt="CMDR-JohnAlex's GitHub Stats" />
 </a>
 <a href="https://github.com/CMDR-JohnAlex/guessTheNumber">
-	<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CMDR-JohnAlex&repo=guessTheNumber&show_icons=true&theme=radical" />
+	<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CMDR-JohnAlex&repo=countdownTimer&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/CMDR-JohnAlex/AdventOfCodeSolutions">
-	<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CMDR-JohnAlex&repo=AdventOfCodeSolutions&show_icons=true&theme=radical" />
+	<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CMDR-JohnAlex&repo=guessTheNumber&show_icons=true&theme=radical" />
 </a>
 
 .
