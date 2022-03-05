@@ -15,21 +15,22 @@
 ![](https://img.shields.io/badge/Tools-Github-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)
 
 <a href="https://github.com/CMDR-JohnAlex/CMDR-JohnAlex">
-	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CMDR-JohnAlex&langs_count=3&theme=radical&hide=SWIG" /> <!-- &layout=compact -->
+	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CMDR-JohnAlex&langs_count=3&theme=radical&hide=SWIG, C" /> <!-- &layout=compact -->
 </a>
 <a href="https://github.com/CMDR-JohnAlex/CMDR-JohnAlex">
 	<img align="center" src="https://github-readme-stats.vercel.app/api?username=CMDR-JohnAlex&show_icons=true&line_height=27&theme=radical&count_private=true" alt="CMDR-JohnAlex's GitHub Stats" />
 </a>
-<a href="https://github.com/CMDR-JohnAlex/guessTheNumber">
-	<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CMDR-JohnAlex&repo=guessTheNumber&show_icons=true&theme=radical" />
+<a href="https://github.com/CMDR-JohnAlex/GuessTheNumber">
+	<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CMDR-JohnAlex&repo=GuessTheNumber&show_icons=true&theme=radical" />
 </a>
-<a href="https://github.com/CMDR-JohnAlex/AdventOfCodeSolutions">
-	<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CMDR-JohnAlex&repo=AdventOfCodeSolutions&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/CMDR-JohnAlex/GuessTheNumber">
+	<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CMDR-JohnAlex&repo=GuessTheNumber&show_icons=true&theme=radical" />
 </a>
 
 .
 
-<a href="https://skyline.github.com/CMDR-JohnAlex/2021" title="2021 Github Skyline">My 2021 Github Skyline</a>
+<a href="https://skyline.github.com/CMDR-JohnAlex/2022" title="2022 Github Skyline">My 2022 Github Skyline</a>
 
 <!---
 CMDR-JohnAlex/CMDR-JohnAlex is a special repository because its `README.md` (this file) appears on your GitHub profile.
