@@ -1,7 +1,7 @@
 # Hi, I’m @CMDR-JohnAlex
 - I’m interested in... `Space`, `Space Games`, `Spaceships`, `C++`
 - I’m currently working on... usually small projects
-- I’m currently learning... `C++` and `Vulkan`
+- I’m currently learning... `C++` and `OpenGL`
 - I’m looking to collaborate on... anything I understand
 - Pronouns... `He/Him` or `They/Them`
 <!-- - How to reach me... -->
