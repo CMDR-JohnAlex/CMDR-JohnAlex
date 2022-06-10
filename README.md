@@ -36,6 +36,8 @@
 
 <a href="https://skyline.github.com/CMDR-JohnAlex/2022" title="2022 Github Skyline">My 2022 Github Skyline</a>
 
+<p>Note: Please don't use my public code on github as an idea of how good a programmer I am. Most of my great projects are private because they include a family memer or some private information that would take too much time to remove for a github version, and especially if I want to update the program.</p>
+
 <!---
 CMDR-JohnAlex/CMDR-JohnAlex is a special repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
