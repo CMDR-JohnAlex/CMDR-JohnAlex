@@ -22,12 +22,12 @@
 <a href="https://github.com/CMDR-JohnAlex/CMDR-JohnAlex">
 	<img align="center" src="https://github-readme-stats.vercel.app/api?username=CMDR-JohnAlex&show_icons=true&line_height=27&theme=radical&count_private=true" alt="CMDR-JohnAlex's GitHub Stats" />
 </a>
-<a href="https://github.com/CMDR-JohnAlex/GuessTheNumber">
-	<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CMDR-JohnAlex&repo=GuessTheNumber&show_icons=true&theme=radical" />
+<a href="https://github.com/CMDR-JohnAlex/Windows95Maze">
+	<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CMDR-JohnAlex&repo=Windows95Maze&show_icons=true&theme=radical" />
 </a>
 </a>
-<a href="https://github.com/CMDR-JohnAlex/GuessTheNumber">
-	<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CMDR-JohnAlex&repo=GuessTheNumber&show_icons=true&theme=radical" />
+<a href="https://github.com/CMDR-JohnAlex/SimpleLogger">
+	<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CMDR-JohnAlex&repo=SimpleLogger&show_icons=true&theme=radical" />
 </a>
 
 <br />
@@ -36,9 +36,4 @@
 
 <a href="https://skyline.github.com/CMDR-JohnAlex/2022" title="2022 Github Skyline">My 2022 Github Skyline</a>
 
-<p>Note: Please don't use my public code on github as an idea of how good a programmer I am. Most of my great projects are private because they include a family memer or some private information that would take too much time to remove for a github version, and especially if I want to update the program.</p>
-
-<!---
-CMDR-JohnAlex/CMDR-JohnAlex is a special repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p>Note: Please don't use my public code on github as an idea of how good a programmer I am. Most of my great projects are private because they include a family member's name or some private information that would take too much time to remove for a github version, especially if I want to update the program on Github.</p>
