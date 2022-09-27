@@ -20,7 +20,7 @@
 	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CMDR-JohnAlex&langs_count=3&theme=radical&hide=SWIG, C" /> <!-- &layout=compact -->
 </a>
 <a href="https://github.com/CMDR-JohnAlex/CMDR-JohnAlex">
-	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CMDR-JohnAlex&langs_count=3&theme=radical" /> <!-- &layout=compact -->
+	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CMDR-JohnAlex&langs_count=3&theme=radical&hide=C" /> <!-- &layout=compact -->
 </a>
 <a href="https://github.com/CMDR-JohnAlex/CMDR-JohnAlex">
 	<img align="center" src="https://github-readme-stats.vercel.app/api?username=CMDR-JohnAlex&show_icons=true&line_height=27&theme=radical&count_private=true" alt="CMDR-JohnAlex's GitHub Stats" />
