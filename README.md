@@ -17,9 +17,6 @@
 ![](https://img.shields.io/badge/Tools-Github-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)
 
 <a href="https://github.com/CMDR-JohnAlex/CMDR-JohnAlex">
-	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CMDR-JohnAlex&langs_count=3&theme=radical&hide=SWIG, C" /> <!-- &layout=compact -->
-</a>
-<a href="https://github.com/CMDR-JohnAlex/CMDR-JohnAlex">
 	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CMDR-JohnAlex&langs_count=3&theme=radical&hide=C" /> <!-- &layout=compact -->
 </a>
 <a href="https://github.com/CMDR-JohnAlex/CMDR-JohnAlex">
