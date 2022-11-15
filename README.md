@@ -1,9 +1,9 @@
 # Hi, I’m @CMDR-JohnAlex
-- I’m interested in... `Space`, `Space Games`, `Spaceships`, `C++`, `Elite Dangerous`, `StarMade`
-- I’m currently working on... learning OpenGL and learning how to write good documentation
-- I’m currently learning... `C++` and `OpenGL`
-- Programming languages I know well... `C++`, `SQL`, `C`, `OpenGL` (<- Yes I know it is not a programming language, but I know it well)
-- Programming languages I know little... `C#`, `Python`, `Java`, `HTML`, `CSS` (I don't count just a simple "Hello World!")
+- I’m interested in... `Space`, `Space Games`, `Spaceships`, `C++`, `Elite Dangerous`
+- I’m currently working on... making my own 2D/3D game engine that supports OpenGL and in the future, Vulkan
+- I’m currently learning... `C++`, `OpenGL` and soon `Vulkan`
+- Programming languages I know well... `C++`, `C`, `OpenGL` (<- Yes I know it is not a programming language, but I know it well)
+- Programming languages I know a little... `C#`, `Python`, `Java`, `HTML`, `CSS` (I don't count just a simple "Hello World!")
 - I’m looking to collaborate on... anything I am interested in and anything I understand
 - Pronouns... `He/Him` or `They/Them`
 <!-- - How to reach me... -->
@@ -36,4 +36,4 @@
 
 <a href="https://skyline.github.com/CMDR-JohnAlex/2022" title="2022 Github Skyline">My 2022 Github Skyline</a>
 
-<p>Note: Please don't use my public code on github as an idea of how good a programmer I am. Most of my great projects are private because they include a family member's name or some private information that would take too much time to remove for a github version, especially if I want to update the program on Github.</p>
+<p>Note: Please don't use my public code on github as an idea of how good a programmer I am. Most of my great projects are private or mostly not on github because they include a family member's name or some private information that would take too much time to remove for a github version, especially if I want to update the program on Github.</p>
