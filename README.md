@@ -10,7 +10,7 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/CMDR-JohnAlex?style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/CMDR-JohnAlex?style=social)
-![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=CMDR-JohnAlex.CMDR-JohnAlex&color=2bbc8a)
+<!-- ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=CMDR-JohnAlex.CMDR-JohnAlex&color=2bbc8a) -->
 ![](https://img.shields.io/badge/OS-Windows_11-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Visual_Studio_Community_2022-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=2bbc8a)
@@ -36,4 +36,4 @@
 
 <a href="https://skyline.github.com/CMDR-JohnAlex/2022" title="2022 Github Skyline">My 2022 Github Skyline</a>
 
-<p>Note: Please don't use my public code on github as an idea of how good a programmer I am. Although I am a terrible programmer, most of my projects are private, not worth shring, or not on github because they include lots of private information that would take too much time to remove for a github version</p>
+<p>Note: Please don't use my public code on github as an idea of how good a programmer I am. Although I am a terrible programmer, most of my projects are private, not worth shring, or not on github because they include lots of private information that would take too much time to remove for a github version.</p>
