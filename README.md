@@ -1,6 +1,6 @@
 # Hi, I’m @CMDR-JohnAlex
 - I’m interested in... `Space`, `Space Games`, `Spaceships`, `C++`, `Elite Dangerous`
-- I’m currently working on... Nothing so far. I've been burnt out of programming for a long time now
+- I’m currently working on... [Accounting Craft](https://github.com/CMDR-JohnAlex/AccountingCraft), meant to be a small graphical program to keep track of your items in [Minecraft](https://www.minecraft.net/).
 - I’m currently learning... `C++`
 - Programming languages I know well... `C++`, `C`
 - Programming languages I know a little... `C#`, `Python`, `Java`, `HTML`, `CSS`
@@ -22,13 +22,14 @@
 <a href="https://github.com/CMDR-JohnAlex/CMDR-JohnAlex">
 	<img align="center" src="https://github-readme-stats.vercel.app/api?username=CMDR-JohnAlex&show_icons=true&line_height=27&theme=radical&count_private=true" alt="CMDR-JohnAlex's GitHub Stats" />
 </a>
-<a href="https://github.com/CMDR-JohnAlex/Windows95Maze">
+
+<!--<a href="https://github.com/CMDR-JohnAlex/Windows95Maze">
 	<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CMDR-JohnAlex&repo=Windows95Maze&show_icons=true&theme=radical" />
 </a>
 </a>
 <a href="https://github.com/CMDR-JohnAlex/SimpleLogger">
 	<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CMDR-JohnAlex&repo=SimpleLogger&show_icons=true&theme=radical" />
-</a>
+</a>-->
 
 <br />
 <br />
