@@ -5,7 +5,7 @@
 - Programming languages I know well... `C++`, `C`
 - Programming languages I know a little... `C#`, `Python`, `Java`, `HTML`, `CSS`
 - I’m looking to collaborate on... anything I am interested in and anything I understand
-- Pronouns... `He/Him` or `They/Them`
+- Pronouns... `They/Them`
 <!-- - How to reach me... -->
 
 ![GitHub followers](https://img.shields.io/github/followers/CMDR-JohnAlex?style=social)
