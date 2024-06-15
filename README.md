@@ -1,9 +1,9 @@
 # Hi, I’m @CMDR-JohnAlex
-- I’m interested in... `Space`, `Space Games`, `Spaceships`, `C++`, `Elite Dangerous`
-- I’m currently working on... [Accounting Craft](https://github.com/CMDR-JohnAlex/AccountingCraft), meant to be a small graphical program to keep track of your items in [Minecraft](https://www.minecraft.net/).
+- I’m interested in... `Space`, `Spaceships`, `Video Games`, `C++`
+- I’m currently working on... Nothing much, still studying at high school. I plan to do a lot of programming this summer.
 - I’m currently learning... `C++`
 - Programming languages I know well... `C++`, `C`
-- Programming languages I know a little... `C#`, `Python`, `Java`, `HTML`, `CSS`
+- Programming languages I know a little... `C#`, `Python`, `HTML`
 - I’m looking to collaborate on... anything I am interested in and anything I understand
 - Pronouns... `They/Them`
 <!-- - How to reach me... -->
