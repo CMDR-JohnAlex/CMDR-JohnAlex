@@ -1,4 +1,12 @@
 # Hi, I’m @CMDR-JohnAlex
+
+I'm working on my profile right now, so please standby!
+
+<picture>
+  <img src="/github-metrics.svg" alt="Metrics">
+</picture>
+
+# Hi, I’m @CMDR-JohnAlex
 - I’m interested in... `Space`, `Video Games`, `Graphics Programming`, `Networking`, `C++`
 - I’m currently working on... I'm planning to work on a lot of graphics programming projects this summer
 - I’m currently learning... `C++`
