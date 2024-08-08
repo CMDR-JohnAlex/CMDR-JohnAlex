@@ -2,6 +2,9 @@
 
 I'm working on my profile right now, so please standby!
 
+
+Metrics doesn't seem to want to display in columns..
+
 <picture>
   <img src="/github-metrics.svg" alt="Metrics">
 </picture>
