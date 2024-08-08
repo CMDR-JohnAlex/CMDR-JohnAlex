@@ -29,6 +29,7 @@ jobs:
           user: CMDR-JohnAlex
           template: classic
           base: header, activity, community, repositories, metadata
+          config_display: columns
           config_timezone: America/Toronto
           plugin_achievements: yes
           plugin_achievements_display: compact
