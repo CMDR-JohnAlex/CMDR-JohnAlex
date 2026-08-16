@@ -1,7 +1,7 @@
 # Visit https://github.com/lowlighter/metrics#-documentation for full reference
 name: Metrics
 on:
-  # Schedule daily updates
+  # Schedule updates
   schedule: [{cron: "0 0 * * *"}]
   # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
@@ -17,7 +17,6 @@ jobs:
           # Your GitHub token
           # The following scopes are required:
           #  - public_access (default scope)
-          #  - repo
           # The following additional scopes may be required:
           #  - read:org      (for organization related metrics)
           #  - read:user     (for user related data)
@@ -29,24 +28,12 @@ jobs:
           user: CMDR-JohnAlex
           template: classic
           base: header, activity, community, repositories, metadata
-          config_display: large
-          config_timezone: America/Toronto
-          plugin_anilist: no
-          plugin_anilist_limit: 0
-          plugin_anilist_limit_characters: 1000
-          plugin_anilist_medias: anime
-          plugin_anilist_sections: characters
-          plugin_anilist_user: CMDRJohnAlex
-          plugin_calendar: yes
-          plugin_calendar_limit: 1
-          plugin_followup: yes
-          plugin_followup_archived: yes
-          plugin_followup_sections: repositories
+          config_timezone: America/New_York
           plugin_habits: yes
           plugin_habits_charts_type: classic
-          plugin_habits_days: 30
+          plugin_habits_days: 14
           plugin_habits_facts: yes
-          plugin_habits_from: 1000
+          plugin_habits_from: 200
           plugin_habits_languages_limit: 8
           plugin_habits_languages_threshold: 0%
           plugin_introduction: yes
@@ -58,10 +45,7 @@ jobs:
           plugin_languages_analysis_timeout_repositories: 7.5
           plugin_languages_categories: markup, programming
           plugin_languages_colors: github
-          plugin_languages_ignored: C
-          plugin_languages_details: percentage
           plugin_languages_limit: 8
-          plugin_languages_other: no
           plugin_languages_recent_categories: markup, programming
           plugin_languages_recent_days: 14
           plugin_languages_recent_load: 300
@@ -70,19 +54,23 @@ jobs:
           plugin_leetcode: yes
           plugin_leetcode_limit_recent: 2
           plugin_leetcode_limit_skills: 10
-          plugin_leetcode_sections: solved, skills
+          plugin_leetcode_sections: solved
           plugin_leetcode_user: CMDR-JohnAlex
           plugin_lines: yes
-          plugin_lines_delay: 30
-          plugin_lines_history_limit: 100
+          plugin_lines_history_limit: 1
           plugin_lines_repositories_limit: 4
           plugin_lines_sections: base
           plugin_repositories: yes
           plugin_repositories_order: featured, pinned, starred, random
           plugin_repositories_pinned: 6
-          plugin_repositories_starred: 2
-          plugin_topics: yes
-          plugin_topics_limit: 15
-          plugin_topics_mode: starred
-          plugin_topics_sort: stars
-          plugin_traffic: yes
+          plugin_skyline: yes
+          plugin_skyline_frames: 60
+          plugin_skyline_quality: 0.5
+          plugin_skyline_settings: {
+            "url": "https://skyline.github.com/${login}/${year}",
+            "ready": "[...document.querySelectorAll('span')].map(span => span.innerText).includes('Share on Twitter')",
+            "wait": 1,
+            "hide": "button, footer, a"
+          }
+
+          plugin_skyline_year: current-year
