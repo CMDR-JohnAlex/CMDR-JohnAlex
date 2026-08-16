@@ -28,6 +28,7 @@ jobs:
           user: CMDR-JohnAlex
           template: classic
           base: header, activity, community, repositories, metadata
+          config_display: large
           config_timezone: America/New_York
           plugin_calendar: yes
           plugin_calendar_limit: 1
